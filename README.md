@@ -43,7 +43,7 @@ a game inspired by Terraria. It's my dream project! Terraria is my favorite game
 and making a game inspired by it is something very exciting for me. I already have a lot of stuff in it: equipment, world 
 generation system (it's still in progress, but it already works), inventory, system for breaking and placing blocks, some
 enemies, equipment, armor... In short, most of the elements of Terraria. If you want to know more about this project, you can
-check out Legendaria in this repository and read what's there.
+check out Legendaria in the other repository and read what's there.
 <!---
 caleb-humasi/caleb-humasi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
